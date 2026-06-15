@@ -7,6 +7,14 @@ By combining rigorous statistical assessment with corporate strategy frameworks,
 
 ---
 
+## 📅 Project Management & Agile Workflow
+[cite_start]To maintain enterprise-grade documentation and structured delivery, this project was executed using Agile frameworks with sprint planning, backlog management, and KPI milestone tracking.
+
+* [cite_start]🛠️ **Project Tracking Board:** [View Complete Jira Project Board Workspace](https://sabarni66.atlassian.net/jira/software/projects/CRA/boards/1) 
+* 📸 **Sprint Performance Artifacts:** [View Jira Software Setup & Sprint Screenshots (Google Drive)](https://drive.google.com/file/d/1WB0yRE_urWDRo7NLjxw9f-dVW10lGgH6/view?usp=drivesdk)
+
+---
+
 ## 🛠️ Multi-Layered Technical Architecture
 The project is explicitly engineered across a modular pipeline to ensure scalability and governance:
 
